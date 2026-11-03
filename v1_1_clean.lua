@@ -1,9 +1,9 @@
--- Recovered Luau source by ZeroVector
+-- Recovered Luau source by CATHUB 
 local pKS6qzcaqB, tbl
 
 do
     loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/Blox-Fruits/refs/heads/main/core.luau"))()
-    pKS6qzcaqB = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxfruitsnokey/Arcylic/refs/heads/main/Eclipse/ui.luau"))().new("Eclipse Hub : discord.gg/pKS6qzcaqB", "by @Eclipse")
+    pKS6qzcaqB = loadstring(game:HttpGet("https://raw.githubusercontent.com/catjackoy/Gdk/refs/heads/main/CAT_HUB_Acrylic_Yellow_UI.luau"))().new("CATHUB : BLOX FRUIT", "by @catjack.gg")
     pKS6qzcaqB:SetToggleKey(Enum.KeyCode.RightControl)
     local Main = pKS6qzcaqB:CreateSection("Main")
 
@@ -5092,8 +5092,8 @@ local v17 = tbl.Misc:CreateToggle({
 iceWalk = v17
 
 pKS6qzcaqB:Notify({
-    Title = "Eclipse Hub",
-    Description = "Eclipse Hub comeback",
-    Icon = "rbxassetid://110535192984297",
+    Title = "CATHUB",
+    Description = "CATHUB comeback",
+    Icon = "rbxassetid://131425307214118",
     Duration = 5,
 })
